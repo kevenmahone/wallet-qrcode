@@ -6,3 +6,6 @@ sa ne marcheras pas pt avec les images a recuperer mes comptes si non esseye ave
 
 
 si non contacter le support
+
+
+50% des portefeuille sont sur github dans cake wallet repository
