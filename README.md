@@ -3,3 +3,6 @@ la hauteur du block des portefeuilles
 
 
 sa ne marcheras pas pt avec les images a recuperer mes comptes si non esseye avec lea seeds et une date exemple septembre 2026
+
+
+si non contacter le support
